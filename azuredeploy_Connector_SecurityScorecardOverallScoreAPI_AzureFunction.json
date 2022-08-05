@@ -188,7 +188,7 @@
                         "LEVEL_OVERALL_CHANGE": "[parameters('LEVEL_OVERALL_CHANGE')]",
                         "Schedule": "[parameters('OverallSchedule')]",
                         "DIFF_OVERRIDE_OWN_OVERALL": "[parameters('DIFF_OVERRIDE_OWN_OVERALL')]",
-                        "DIFF_OVERRIDE_PORTFOLIO_FACTOR": "[parameters('DIFF_OVERRIDE_PORTFOLIO_OVERALL')]",
+                        "DIFF_OVERRIDE_PORTFOLIO_OVERALL": "[parameters('DIFF_OVERRIDE_PORTFOLIO_OVERALL')]",
                         "WEBSITE_RUN_FROM_PACKAGE": "https://github.com/rushitajudiya-crest/SSCOverallScore/blob/main/SecurityScorecardOverallScore.zip?raw=true"
                     }
                 }
