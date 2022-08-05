@@ -34,15 +34,15 @@
         },
         "SECURITY_SCORECARD_OVERALL_TABLE_NAME":{
             "type": "string",
-            "defaultValue": "<SECURITY_SCORECARD_OVERALL_TABLE_NAME>"
+            "defaultValue": "SecurityScorecardOverallScore_CL"
         },
         "LEVEL_OVERALL_CHANGE":{
             "type": "string",
-            "defaultValue": "<LEVEL_OVERALL_CHANGE>"
+            "defaultValue": "7"
         },
         "OverallSchedule":{
             "type": "string",
-            "defaultValue": "<Cron Expression>"
+            "defaultValue": "0 */20 * * * *"
         },
         "DIFF_OVERRIDE_OWN_OVERALL":{
             "type": "bool",
